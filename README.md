@@ -7,7 +7,7 @@ via Ollama — with chat history, streaming, and multi-model support.
 
 ---
 
-## ✨ Features
+## ✨ Features--
 
 | Feature | Description |
 |---------|-------------|
