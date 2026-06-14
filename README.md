@@ -74,7 +74,7 @@ The API will be available at **http://localhost:8000**.
 ### 4. Run the Streamlit frontend
 
 ```bash
-streamlit run frontend/app.py
+streamlit run frontend/app.py 
 ```
 
 The UI will open at **http://localhost:8501**.
