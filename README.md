@@ -46,7 +46,7 @@ via Ollama — with chat history, streaming, and multi-model support.
 
 ## Quick Start
 
-### 1. Install Python dependencies
+### 1. Install Python dependencies 
 
 ```bash
 pip install -r requirements.txt
