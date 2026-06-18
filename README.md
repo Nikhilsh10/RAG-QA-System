@@ -1,7 +1,7 @@
 # RAG-Based Document Q&A System
 
 A production-ready Retrieval-Augmented Generation system that lets you
-upload documents (PDF, TXT, DOCX, CSV, MD), index them with FAISS vector
+upload documents (PDF, TXT, DOCX, CSV, MD), index them with FAISS vector 
 embeddings, and ask natural-language questions answered by a local LLM
 via Ollama — with chat history, streaming, and multi-model support.
 
