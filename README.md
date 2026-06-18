@@ -13,7 +13,7 @@ via Ollama — with chat history, streaming, and multi-model support.
 |---------|-------------|
 | 📄 Multi-format Upload | PDF, TXT, DOCX, CSV, Markdown |
 | 🤖 Multi-model Support | Switch between Mistral, Llama3, Gemma |
-| 💬 Chat History | Conversational follow-up questions |
+| 💬 Chat History | Conversational follow-up questions | 
 | ⚡ Streaming Responses | Token-by-token SSE streaming |
 | 🔍 Chunk Visualization | View retrieved text passages |
 | 👁️ Document Preview | Preview uploaded documents in sidebar |
