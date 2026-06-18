@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ### 2. Install and start Ollama
 
-Download from <https://ollama.com> and pull a model:
+Download from <https://ollama.com> and pull a model: 
 
 ```bash
 ollama pull mistral
