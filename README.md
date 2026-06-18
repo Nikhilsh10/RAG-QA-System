@@ -19,7 +19,7 @@ via Ollama — with chat history, streaming, and multi-model support.
 | 👁️ Document Preview | Preview uploaded documents in sidebar |
 | 🔑 API Key Auth | Protected endpoints with X-API-Key |
 | 🐳 Docker Ready | Full docker-compose with Ollama |
-
+ 
 ---
 
 ## Architecture
